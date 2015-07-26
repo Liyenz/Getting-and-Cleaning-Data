@@ -20,5 +20,5 @@ This file describe the data, variable and wprk that I performed on the data.
   
   <li>Create a second, independent tidy data set with the average of each variable for each activity and each subject.</li>
   <li>There are 6 activities in total and 30 subjects in total, we have 180 rows of records. Work around with data frame named result.</li>
-  <li>Use write.table to write the cleanedData out to "data_with_means.txt" file in my current working directory. </li>
+  <li>Use write.table to write out to "data_with_means.txt" file in my current working directory. </li>
 </ul>
